@@ -2013,7 +2013,7 @@ textarea.form-control {
     margin-top: 15px; }
   .progress-container .progress-badge {
     color: #888;
-    font-size: 0.8571em;
+    font-size: 0.65em;
     text-transform: uppercase; }
   .progress-container .progress {
     height: 1px;
@@ -2029,7 +2029,7 @@ textarea.form-control {
       top: 2px;
       right: 0;
       color: #888;
-      font-size: 0.8571em; }
+      font-size: 0.65em; }
   .progress-container.progress-neutral .progress {
     background: rgba(255, 255, 255, 0.3); }
   .progress-container.progress-neutral .progress-bar {
